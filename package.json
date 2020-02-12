@@ -43,6 +43,7 @@
     "debug": "^2.1.1",
     "depd": "^1.0.0",
     "inflection": "^1.6.0",
+    "json-stringify-safe": "^5.0.1",
     "loopback-connector": "^2.1.0",
     "minimatch": "^3.0.3",
     "node-uuid": "^1.4.2",
